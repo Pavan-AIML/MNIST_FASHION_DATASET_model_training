@@ -1,5 +1,3 @@
-# GITHUB
-This is a trial file. 
-# Here we have done some commits.
-# make some changes
-# make some another changes
+In this file we have shown that before trainin a model it is important to setup datloader ans well as dataset.
+
+
